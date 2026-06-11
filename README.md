@@ -113,25 +113,25 @@ classifier.fit(key_pts, encoded_labels)
 <br />
 
 #### Sign Up Page
-![Sign Up](/media/signup.png)
+![Sign Up](/media/signup1.png)
 
 #### Login Page
-![Login](/media/login.png)
+![Login](/media/login1.png)
 
 #### Compliant Registration
-![Compliant Registration](/media/compliant.png)
+![Compliant Registration](/media/compliant1.png)
 
 #### Dashboard
-![Dashboard](/media/dashboard.png)
+![Dashboard](/media/dashboard1.png)
 
 #### Add Criminal Record
-![Add Criminal Record](/media/upload-record.png)
+![Add Criminal Record](/media/upload-record1.png)
 
 #### Match Image with Database
-![Match Image](/media/search-image.png)
+![Match Image](/media/search-image1.png)
 
 #### Result of Prediction
-![Result](/media/result.png)
+![Result](/media/result1.png)
 
 </details>
 <br />
