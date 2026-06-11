@@ -1,0 +1,1 @@
+.\env\Scripts\python.exe manage.py add_record --key "CR_45" --name "RobertDowneyJunior" --against 34 --gender Male --image "suspect_2 .jpg"
